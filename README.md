@@ -1,6 +1,6 @@
 # Eric Pacheco
 
-Product Owner at TD. After hours, I build and operate **Jarvis** — a personal AI agent
+Product Owner at TD. After hours, I build and operate **EPDEV** — a personal AI agent
 platform running 24/7 on Claude Code: multi-agent orchestration, autonomous scheduled
 jobs, security gates on agent tool use, and a learning loop that turns failures into
 steering rules.
